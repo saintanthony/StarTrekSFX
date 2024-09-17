@@ -8,6 +8,10 @@ This mod will add Star Trek SFX to Lethal Company, where appropriate. Adds appro
 OR
 
 - Make sure you have all dependencies installed.
+- no00ob-LCSoundTool
+  Preferred/Current version: 1.5.1
+- Clementinise-CustomSounds
+  Preferred/Current version: 2.3.2
 - Move the `StarTrekSFX` folder from the `CustomSounds` folder into the `CustomSounds` folder within your `plugins` directory.
 
 ## List Of Replaced Sounds:
